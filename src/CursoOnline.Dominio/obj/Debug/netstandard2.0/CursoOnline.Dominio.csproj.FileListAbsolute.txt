@@ -1,0 +1,9 @@
+F:\ws-vs2020\CursoOnline\src\CursoOnline.Dominio\bin\Debug\netstandard2.0\CursoOnline.Dominio.deps.json
+F:\ws-vs2020\CursoOnline\src\CursoOnline.Dominio\bin\Debug\netstandard2.0\CursoOnline.Dominio.dll
+F:\ws-vs2020\CursoOnline\src\CursoOnline.Dominio\bin\Debug\netstandard2.0\CursoOnline.Dominio.pdb
+F:\ws-vs2020\CursoOnline\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.csprojAssemblyReference.cache
+F:\ws-vs2020\CursoOnline\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.AssemblyInfoInputs.cache
+F:\ws-vs2020\CursoOnline\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.AssemblyInfo.cs
+F:\ws-vs2020\CursoOnline\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.csproj.CoreCompileInputs.cache
+F:\ws-vs2020\CursoOnline\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.dll
+F:\ws-vs2020\CursoOnline\src\CursoOnline.Dominio\obj\Debug\netstandard2.0\CursoOnline.Dominio.pdb
