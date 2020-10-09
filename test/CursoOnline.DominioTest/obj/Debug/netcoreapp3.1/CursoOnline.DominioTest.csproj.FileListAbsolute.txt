@@ -6,6 +6,8 @@ F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\Cu
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\CursoOnline.DominioTest.runtimeconfig.dev.json
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\CursoOnline.DominioTest.dll
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\CursoOnline.DominioTest.pdb
+F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\Bogus.dll
+F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\ExpectedObjects.dll
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -86,6 +88,8 @@ F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\zh
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\CursoOnline.Dominio.dll
+F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\CursoOnline.Dominio.pdb
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp3.1\CursoOnline.DominioTest.csprojAssemblyReference.cache
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp3.1\CursoOnline.DominioTest.AssemblyInfoInputs.cache
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp3.1\CursoOnline.DominioTest.AssemblyInfo.cs
