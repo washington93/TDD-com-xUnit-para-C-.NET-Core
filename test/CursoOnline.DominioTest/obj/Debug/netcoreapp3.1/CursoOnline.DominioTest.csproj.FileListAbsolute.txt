@@ -98,3 +98,5 @@ F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp3.1\Cu
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp3.1\CursoOnline.DominioTest.dll
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp3.1\CursoOnline.DominioTest.pdb
 F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\obj\Debug\netcoreapp3.1\CursoOnline.DominioTest.genruntimeconfig.cache
+F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\ws-vs2020\CursoOnline\test\CursoOnline.DominioTest\bin\Debug\netcoreapp3.1\Moq.dll
